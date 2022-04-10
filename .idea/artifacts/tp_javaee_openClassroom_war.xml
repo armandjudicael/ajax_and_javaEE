@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tp_javaee_openClassroom:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tp_javaee_openClassroom</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tp_javaee_openClassroom-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="tp_javaee_openClassroom:war exploded" />
+    </root>
+  </artifact>
+</component>

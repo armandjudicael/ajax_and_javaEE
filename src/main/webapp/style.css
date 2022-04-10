@@ -1,0 +1,12 @@
+.container{
+    display: inline-block;
+    text-align: center;
+}
+
+.errorMessage{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}

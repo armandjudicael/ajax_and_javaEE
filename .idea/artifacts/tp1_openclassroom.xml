@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="tp1_openclassroom">
+    <output-path>$PROJECT_DIR$/out/artifacts/tp1_openclassroom</output-path>
+    <root id="archive" name="tp1_openclassroom.war" />
+  </artifact>
+</component>
